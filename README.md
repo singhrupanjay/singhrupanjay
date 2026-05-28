@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Rupanjay 👋
 
 I am a passionate **Full-Stack Developer** dedicated to building scalable, user-centric, and efficient web applications. With a strong foundation in both front-end and back-end technologies, I enjoy tackling complex problems and transforming them into elegant digital solutions.
 
@@ -38,7 +38,7 @@ I am a passionate **Full-Stack Developer** dedicated to building scalable, user-
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![singhrupanjay](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ---

@@ -1,3 +1,6 @@
+https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif
+
+
 # Hello, I'm Rupanjay 👋
 
 I am a passionate **Full-Stack Developer** dedicated to building scalable, user-centric, and efficient web applications. With a strong foundation in both front-end and back-end technologies, I enjoy tackling complex problems and transforming them into elegant digital solutions.

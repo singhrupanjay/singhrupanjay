@@ -39,7 +39,7 @@ I am a passionate **Full-Stack Developer** dedicated to building scalable, user-
 ## 📈 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=singhrupanjay&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhrupanjay&layout=compact&theme=radical)
 
 ---
 

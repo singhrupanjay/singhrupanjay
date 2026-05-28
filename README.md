@@ -26,8 +26,8 @@ I am a passionate **Full-Stack Developer** dedicated to building scalable, user-
 
 ## 🚀 Featured Projects
 
-### [Project Name 1]
-*A short description of the project, the problem it solves, and the technologies used.*
+### [NexNeuro]
+*A Startup landing page, that provides services in web development, graphics design and tech solutions*
 - [Link to Live Demo] | [Link to GitHub Repo]
 
 ### [Project Name 2]

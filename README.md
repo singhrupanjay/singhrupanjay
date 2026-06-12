@@ -1,4 +1,4 @@
-<div align="center">
+div align="center">
   <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" alt="Pixelated Graphic" width="500"/>
 </div>
 
@@ -12,20 +12,18 @@ I am a passionate **Full-Stack Developer** dedicated to building scalable, user-
 ## 🛠 Tech Stack
 
 ### Frontend
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks/Libraries:** React.js, Next.js, Vue.js, Tailwind CSS
-- **State Management:** Redux, Context API, Zustand
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Python, C++
+- **Frameworks/Libraries:** NextJs, React.js, Next.js, Tailwind CSS, Flask, Django
 
 ### Backend
 - **Runtime:** Node.js, Deno
-- **Frameworks:** Express.js, NestJS, FastAPI
-- **Databases:** PostgreSQL, MongoDB, Redis, Supabase
-- **Authentication:** Auth0, NextAuth, Firebase Auth
+- **Frameworks:** Express.js, Flask, Django
+- **Databases:** MongoDB
+- **Authentication:** Auth0
 
 ### DevOps & Tools
-- **Deployment:** Vercel, Netlify, AWS, Docker
+- **Deployment:** Vercel, Netlify
 - **Version Control:** Git, GitHub
-- **Testing:** Jest, Cypress, Testing Library
 
 ---
 
@@ -33,11 +31,8 @@ I am a passionate **Full-Stack Developer** dedicated to building scalable, user-
 
 ### [NexNeuro]
 *A Startup landing page, that provides services in web development, graphics design and tech solutions*
-- [Link to Live Demo] | [Link to GitHub Repo]
+- [https://www.nexneuro.in/] | 
 
-### [Project Name 2]
-*A short description of the project, highlighting key features or challenges overcome.*
-- [Link to Live Demo] | [Link to GitHub Repo]
 
 ---
 
@@ -50,9 +45,9 @@ I am a passionate **Full-Stack Developer** dedicated to building scalable, user-
 
 ## 📬 Let's Connect
 
-- **Portfolio:** [yourwebsite.com]
-- **LinkedIn:** [linkedin.com/in/yourprofile]
-- **Email:** [yourname@email.com]
+- **Portfolio:** [https://rupanjay-web-portfolio.my.canva.site/code-design]
+- **LinkedIn:** [https://www.linkedin.com/in/rupanjay-singh-b422b7242/]
+- **Email:** [singhrupanjay@email.com]
 
 ---
 *Looking for new opportunities! Feel free to reach out for collaborations or project inquiries.*
